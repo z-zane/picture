@@ -1,3 +1,3 @@
 # Picture
 
-Here is repo for my Picgo
+Here is a repo for my Picgo
